@@ -1,0 +1,23 @@
+#left-nav li{
+    float: left;
+    padding: 15px;
+}
+#right-nav li{
+    position: inherit;
+    float: right;
+    width: 8%;
+    padding: 3px;
+}
+
+#right-nav img{
+    background-color: lawngreen;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+
+header{
+    height:8%;
+    width: 100%;
+}
